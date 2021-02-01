@@ -9,7 +9,7 @@
 #   limit: 0
 #   sort_field: 'date'
 #   sort_reverse: true
-
+base_url:            '\ek2992\'
 # jekyll-paginate configuration
 paginate:            5
 
