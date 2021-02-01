@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "bloop Started"
-author: "Paul Le"
+author: "Eliana Krakovsky"
 categories: journal
 tags: [documentation,sample]
 image: render.png
