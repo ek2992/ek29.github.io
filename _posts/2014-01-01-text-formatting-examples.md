@@ -2,14 +2,22 @@
 layout: post
 title: "Text Formatting Examples"
 author: "Paul Le"
-categories: journal
+categories: post
 tags: [documentation,sample]
-image: cards.jpg
+image: 
 ---
 
 # Markdown Support
 
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory.
+
+Stardate 98679.95
+
+
+There is currently no cure for AD and no reliable method for early detection. The disease is characterized by plaques and fibrils formed in the brain. However, these plaques are not direct indicators of the disease, demanding further research into the aggregation process and its role. I am using a small-angle x-ray scattering technique to obtain structural (and temporal) information of aggregated proteins associated with  Alzheimer's, specifically alpha-syn A532 and tau 383 0N4R. 
+
+I will keep all my lab entrees on this site for easy access. Live long and prosper. 
+
+Here is [the PDF](/files/research_proposal_phys407.pdf) of my proposal for this semesters research.
 
 ## Basic Formatting
 
