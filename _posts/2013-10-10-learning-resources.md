@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Resources"
+title: "Mystery of the Misaligned X-Ray"
 author: "Eliana Krakovsky"
 categories: journal
 tags: [documentation,sample]
