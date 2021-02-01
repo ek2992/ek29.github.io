@@ -4,7 +4,7 @@ title: "Mystery of the Misaligned X-Ray"
 author: "Eliana Krakovsky"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
+image: render.png
 ---
 
 
